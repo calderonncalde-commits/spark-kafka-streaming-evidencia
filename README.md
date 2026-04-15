@@ -30,3 +30,5 @@ Implementar un flujo de procesamiento en **Apache Spark Streaming** integrado co
 5. **Ejecutar el script en Spark**
    '''bash
    spark-submit spark_kafka_streaming.py
+## Conclusion
+La actividad demuestra que la integración de Apache Kafka y Apache Spark Streaming es una solución sólida para el procesamiento de datos en tiempo real. Kafka asegura la distribución confiable de mensajes y Spark los transforma de manera inmediata, validando un pipeline eficiente y escalable. Con esta práctica se evidencia dominio técnico en Big Data y se cumplen los objetivos académicos de la actividad N3, mostrando habilidades aplicables en escenarios reales de la industria.
